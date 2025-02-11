@@ -14,7 +14,7 @@ g++ -o subestacao subestacao.cpp
 
 ./subestacao
 
-## Codigo para cadastro de estações, sobestações e equipamentos de energia
+## Codigo para cadastro de estações, subestações e equipamentos de energia
 
 ### Cadastro Geoespacial de Subestações de Energia.
 Este repositório contém um programa em C++ que permite o cadastro de subestações de energia e seus equipamentos associados, incluindo a localização geográfica (latitude e longitude) de cada subestação.
